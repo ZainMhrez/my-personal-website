@@ -13,7 +13,7 @@ const Contact = () => {
         <ul className="flex justify-evenly items-center mt-8">
           <li className=" rounded-full p-4 bg-secondary cursor-pointer hover:opacity-60">
             <Link
-              href="mailto:zain@zainmhrez.com"
+              href="mailto:zain.mhrez97@gmail.com"
               target="_blank"
               aria-label="Email"
             >

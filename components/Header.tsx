@@ -11,7 +11,7 @@ const Header = () => {
         </Link>
         <button className="p-2 bg-primary rounded-2xl text-sm font-bold text-slate-900">
           <Link
-            href="https://drive.google.com/file/d/1sN5lfYzsVM2lS6FxXSWSu5ZUqB44kAVy/view"
+            href="https://drive.google.com/file/d/1AG-rkYvyweezQjCGlW9q09cEUy23BnxO/view?usp=sharing"
             target="_blank"
           >
             My Resume
