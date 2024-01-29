@@ -1,11 +1,13 @@
 import { NextPage } from "next";
 import Head from "next/head";
+import ReactGA from "react-ga4";
 import Contact from "../components/Contact";
 import Hero from "../components/Hero";
 import Projects from "../components/Projects";
 import Skills from "../components/Skills";
 
 const Home: NextPage = () => {
+  ReactGA.initialize("G-DGYCT8XMGY");
   return (
     <div>
       <Head>
